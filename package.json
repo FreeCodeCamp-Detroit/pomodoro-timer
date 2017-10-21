@@ -4,7 +4,7 @@
   "description": "Exercise with FCC members Oct. 2017",
   "main": "index.js",
   "scripts": {
-    "test": "mocha server/spec/* --reporter spec --no-deprecation --full-trace"
+    "test": "mocha spec/* --reporter spec --no-deprecation --full-trace"
   },
   "repository": {
     "type": "git",
